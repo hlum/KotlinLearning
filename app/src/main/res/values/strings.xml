@@ -3,4 +3,5 @@
     <string name="title_activity_modifiers">Modifiers</string>
     <string name="title_activity_rows_and_column">RowsAndColumn</string>
     <string name="title_activity_image_card_composable">ImageCardComposable</string>
+    <string name="title_activity_styling_text">StylingText</string>
 </resources>
