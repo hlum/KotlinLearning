@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "jec.ac.jp.cm0138.kotlinlearning"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "jec.ac.jp.cm0138.kotlinlearning"
