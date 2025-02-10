@@ -13,6 +13,21 @@
         android:theme="@style/Theme.KotlinLearning"
         tools:targetApi="31">
         <activity
+            android:name=".ImageCardComposable"
+            android:exported="false"
+            android:label="@string/title_activity_image_card_composable"
+            android:theme="@style/Theme.KotlinLearning" />
+        <activity
+            android:name=".RowsAndColumn"
+            android:exported="false"
+            android:label="@string/title_activity_rows_and_column"
+            android:theme="@style/Theme.KotlinLearning" />
+        <activity
+            android:name=".Modifiers"
+            android:exported="false"
+            android:label="@string/title_activity_modifiers"
+            android:theme="@style/Theme.KotlinLearning" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
